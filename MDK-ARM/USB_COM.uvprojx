@@ -427,6 +427,11 @@
               <FileType>1</FileType>
               <FilePath>../Src/stm32f3xx_hal_msp.c</FilePath>
             </File>
+            <File>
+              <FileName>L3GD20.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>..\Src\L3GD20.c</FilePath>
+            </File>
           </Files>
         </Group>
         <Group>
